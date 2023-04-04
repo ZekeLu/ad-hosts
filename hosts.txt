@@ -1,0 +1,18 @@
+127.0.0.1       localhost
+::1             ip6-localhost
+
+# block ads
+127.0.0.1 m.video.9ddm.com
+127.0.0.1 adx-cn.anythinktech.com
+127.0.0.1 sdk.beizi.biz
+127.0.0.1 mssdk-bu.bytedance.com
+127.0.0.1 toblog.ctobsnssdk.com
+127.0.0.1 data.flurry.com
+127.0.0.1 sdktmp.hubcloud.com.cn
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 pgdt.ugdtimg.com
+127.0.0.1 tnc3-bjlgy.zijieapi.com
